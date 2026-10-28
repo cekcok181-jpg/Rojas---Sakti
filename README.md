@@ -1,3 +1,5 @@
+SCRIPT TERMUX, TOOLS SAKTI MEMINDAI KERENTANAN !
+
 # ⚡ Rojas-Sakti v4.0
 
 Framework *Bug Hunting* dan *Vulnerability Scanner* murni berbasis Python. Dirancang untuk berjalan optimal di Termux maupun Linux tanpa memerlukan *wrapper* dari *tools* lain.
