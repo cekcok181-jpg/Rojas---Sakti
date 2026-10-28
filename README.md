@@ -39,5 +39,8 @@ cd Rojas---Sakti
 python main.py
 
 
-💻 Contoh Penggunaan
+💻 Contoh Penggunaan:
+
+setelah tools berajalan nanti ada pilihan. kalian kektik saja angka 1 atau 2 dll, bebas. 
+
 Saat tools berjalan, Anda akan diminta memasukkan URL target. Gunakan target legal (seperti situs latihan http://testphp.vulnweb.com atau domain milik Anda sendiri).
